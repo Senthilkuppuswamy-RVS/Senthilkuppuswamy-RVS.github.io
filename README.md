@@ -1,5 +1,5 @@
 # Portfolio Project
-##. PacMen Repo
+## PacMen Repo
 
 <a href="https://Senthilkuppuswamy-RVS.github.io/PacMen"> PacMen Exercise </a>
 
