@@ -1,7 +1,7 @@
 # Portfolio Project
 ##. PacMen
 
-<a href "http://Senthilkuppuswamy-RVS/PacMen"> PacMen Exercise </a>
+<a href="https://Senthilkuppuswamy-RVS.github.io/PacMen"> PacMen Exercise </a>
 
 
 
