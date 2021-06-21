@@ -2,19 +2,22 @@
 
 This web page has my biodata, introduction video and my projects. I have added three projects using HTML, CSS & JavaScript. I have tried different font styles, text styles, included grid for web page layout, different icons, images with different widths and Bootstrap navigation bar.
 
-### PacMen Repo
-Name: PacMen Project.  
-Description: Creation of PacMen and their movements with different velocities 
+#### PacMen Repo
+<a href = "https://senthilkuppuswamy-rvs.github.io/PacMen"> PacMen </a>
 
-### Eye-Rotation Repo
-Name: Eye Rotation 
-Description: 
+This Project creates PacMen on demand. These PacMen are made to move across the Page. The PacMen created moves in different velocities. 
 
-### RealTime_Bus-Tracker
-Name: Real Time Bus Tracker
-Description:
+#### Eye-Rotation Repo
+<a href = "https://senthilkuppuswamy-rvs.github.io/Eye-Rotation"> Eye Rotation </a> 
 
-#### License Information
+This Project has two eyes which follows the mouse movement.
+
+#### RealTime_Bus-Tracker
+<a href = "https://senthilkuppuswamy-rvs.github.io/RealTime_Bus-Tracker"> Real Time Bus Tracker </a>
+
+This Project uses MBTA data to determine the stops between Harvard and MIT.
+
+### License Information
 MIT License
 
 Copyright (c) 2020 John Williams
