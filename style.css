@@ -64,7 +64,7 @@ aside,article
 {
   border-color:#50394c;
   border-style:solid;
-  height: 530px;
+  height:800px;
 }
 
 header, footer
@@ -73,6 +73,8 @@ header, footer
     background-color:#f4e1d2;   
     font-family: 'Tangerine', cursive;
     font-size:large;
+    height:50px;
+    border-style: Solid;
     
 } 
 
@@ -101,7 +103,7 @@ h5, p
     text-align: center; 
 }
 
-h3, h5
+h3, h5,h6
 {
     font-family: 'proxima_nova_ltsemibold';
     src:url('Mark Simonson - Proxima Nova Semibold-webfont.eot');
@@ -112,6 +114,7 @@ h3, h5
         url('Mark Simonson - Proxima Nova Semibold-webfont.svg#proxima_nova_ltsemibold') format('svg');
     font-weight: normal;
     font-style: normal;
+    color:rebeccapurple;
 }
 
 h4
